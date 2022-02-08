@@ -1,0 +1,125 @@
+{
+    "directory": "Adressbuch",
+    "students": [
+        {
+            "enrolled": true,
+            "ID": 1,
+            "FirstName": "Tobias",
+            "Surname": "Ferdinand",
+            "Postcode": 11111,
+            "city": "Neustadt",
+            "Street": "Kurstraße",
+            "HouseNumber": 1,
+            "subjects": [
+                "Math",
+                "German",
+                "English"
+            ]
+        },
+        {
+            "enrolled": true,
+            "ID": 2,
+            "FirstName": "Max",
+            "Surname": "Mustermann",
+            "Postcode": 22222,
+            "city": "Newtown",
+            "Street": "Parkstraße",
+            "HouseNumber": 2,
+            "subjects": [
+                "Math",
+                "Geography",
+                "English"
+            ]
+        },
+        {
+            "enrolled": true,
+            "ID": 3,
+            "FirstName": "Lisa",
+            "Surname": "Mustermann",
+            "Postcode": 33333,
+            "city": "Newtown",
+            "Street": "Parkstraße",
+            "HouseNumber": 3,
+            "subjects": [
+                "French",
+                "German",
+                "English"
+            ]
+        },
+        {
+            "enrolled": true,
+            "ID": 4,
+            "FirstName": "Tobse",
+            "Surname": "Mustermann",
+            "Postcode": 44444,
+            "city": "Newtown",
+            "Street": "Parkstraße",
+            "HouseNumber": 4,
+            "subjects": [
+                "French",
+                "German",
+                "English"
+            ]
+        },
+        {
+            "enrolled": true,
+            "ID": 5,
+            "FirstName": "Lena",
+            "Surname": "Mustermann",
+            "Postcode": 55555,
+            "city": "Newtown",
+            "Street": "Parkstraße",
+            "HouseNumber": 5,
+            "subjects": [
+                "French",
+                "German",
+                "English"
+            ]
+        },
+        {
+            "enrolled": true,
+            "ID": 6,
+            "FirstName": "Ali",
+            "Surname": "Mustermann",
+            "Postcode": 666666,
+            "city": "Newtown",
+            "Street": "Parkstraße",
+            "HouseNumber": 6,
+            "subjects": [
+                "French",
+                "German",
+                "English"
+            ]
+        },
+        {
+            "enrolled": true,
+            "ID": 7,
+            "FirstName": "Lisa",
+            "Surname": "Mustermann",
+            "Postcode": 77777,
+            "city": "Newtown",
+            "Street": "Parkstraße",
+            "HouseNumber": 7,
+            "subjects": [
+                "French",
+                "German",
+                "English"
+            ]
+        },
+        {
+            "enrolled": true,
+            "ID": 8,
+            "FirstName": "Tim",
+            "Surname": "Mustermann",
+            "Postcode": 88888,
+            "city": "Newtown",
+            "Street": "Parkstraße",
+            "HouseNumber": 8,
+            "subjects": [
+                "French",
+                "German",
+                "English"
+            ]
+        }
+    ]
+}
