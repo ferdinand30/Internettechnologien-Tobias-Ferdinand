@@ -13,9 +13,9 @@
             <houseNumber>1</houseNumber>
         </address>
         <subjects>
-        Math, English, German
+        Math, German, English
         </subjects>
-        
+
     </student1>
     <student2>
         <id>2</id>
@@ -29,6 +29,9 @@
             <street>Parkstraße</street>
             <houseNumber>2</houseNumber>
         </address>
+        <subjects>
+        Math, Geography, English
+        </subjects>
     </student2>
     <student3>
         <id>3</id>
@@ -42,6 +45,9 @@
             <street>Parkstraße</street>
             <houseNumber>3</houseNumber>
         </address>
+        <subjects>
+        French, German, English
+        </subjects>
     </student3>
     <student4>
         <id>4</id>
@@ -55,6 +61,9 @@
             <street>Parkstraße</street>
             <houseNumber>4</houseNumber>
         </address>
+        <subjects>
+        French, German, English
+        </subjects>
     </student4>
     <student5>
         <id>5</id>
@@ -68,6 +77,9 @@
             <street>Parkstraße</street>
             <houseNumber>5</houseNumber>
         </address>
+        <subjects>
+        French, German, English
+        </subjects>
     </student5>
     <student6>
         <id>6</id>
@@ -81,6 +93,9 @@
             <street>Parkstraße</street>
             <houseNumber>6</houseNumber>
         </address>
+        <subjects>
+        French, German, English
+        </subjects>
     </student6>
     <student7>
         <id>7</id>
@@ -94,8 +109,11 @@
             <street>Parkstraße</street>
             <houseNumber>7</houseNumber>
         </address>
+        <subjects>
+        French, German, English
+        </subjects>
     </student7>
-     <student8>
+    <student8>
         <id>8</id>
         <name>
             <firstName>Tim</firstName>
@@ -107,5 +125,8 @@
             <street>Parkstraße</street>
             <houseNumber>8</houseNumber>
         </address>
+        <subjects>
+        French, German, English
+        </subjects>
     </student8>
 </directory> 
