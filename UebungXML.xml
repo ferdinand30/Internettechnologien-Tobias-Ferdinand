@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF8" ?>
 <directory>
-    <student1>
+    <student>
         <id>1</id>
         <name>
             <firstName>Tobias</firstName>
@@ -13,11 +13,12 @@
             <houseNumber>1</houseNumber>
         </address>
         <subjects>
-        Math, German, English
+            <subject>Math</subject>
+            <subject>German</subject>
+            <subject>English</subject>
         </subjects>
-
-    </student1>
-    <student2>
+    </student>
+    <student>
         <id>2</id>
         <name>
             <firstName>Max</firstName>
@@ -30,10 +31,12 @@
             <houseNumber>2</houseNumber>
         </address>
         <subjects>
-        Math, Geography, English
+            <subject>Math</subject>
+            <subject>Geography</subject>
+            <subject>English</subject>
         </subjects>
-    </student2>
-    <student3>
+    </student>
+    <student>
         <id>3</id>
         <name>
             <firstName>Lisa</firstName>
@@ -46,10 +49,12 @@
             <houseNumber>3</houseNumber>
         </address>
         <subjects>
-        French, German, English
+            <subject>French</subject>
+            <subject>German</subject>
+            <subject>English</subject>
         </subjects>
-    </student3>
-    <student4>
+    </student>
+    <student>
         <id>4</id>
         <name>
             <firstName>Tobse</firstName>
@@ -62,10 +67,12 @@
             <houseNumber>4</houseNumber>
         </address>
         <subjects>
-        French, German, English
+            <subject>French</subject>
+            <subject>German</subject>
+            <subject>English</subject>
         </subjects>
-    </student4>
-    <student5>
+    </student>
+    <student>
         <id>5</id>
         <name>
             <firstName>Lena</firstName>
@@ -78,10 +85,12 @@
             <houseNumber>5</houseNumber>
         </address>
         <subjects>
-        French, German, English
+            <subject>French</subject>
+            <subject>German</subject>
+            <subject>English</subject>
         </subjects>
-    </student5>
-    <student6>
+    </student>
+    <student>
         <id>6</id>
         <name>
             <firstName>Ali</firstName>
@@ -94,10 +103,12 @@
             <houseNumber>6</houseNumber>
         </address>
         <subjects>
-        French, German, English
+            <subject>French</subject>
+            <subject>German</subject>
+            <subject>English</subject>
         </subjects>
-    </student6>
-    <student7>
+    </student>
+    <student>
         <id>7</id>
         <name>
             <firstName>Tom</firstName>
@@ -110,10 +121,12 @@
             <houseNumber>7</houseNumber>
         </address>
         <subjects>
-        French, German, English
+            <subject>French</subject>
+            <subject>German</subject>
+            <subject>English</subject>
         </subjects>
-    </student7>
-    <student8>
+    </student>
+    <student>
         <id>8</id>
         <name>
             <firstName>Tim</firstName>
@@ -126,7 +139,9 @@
             <houseNumber>8</houseNumber>
         </address>
         <subjects>
-        French, German, English
+            <subject>French</subject>
+            <subject>German</subject>
+            <subject>English</subject>
         </subjects>
-    </student8>
+    </student>
 </directory> 
