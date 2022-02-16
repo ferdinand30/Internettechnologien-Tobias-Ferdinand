@@ -13,9 +13,9 @@
             <houseNumber>1</houseNumber>
         </address>
         <subjects>
-            <subject>Math</subjet>
-            <subject>German</subjet>
-            <subject>English</subjet>
+            <subject>Math</subject>
+            <subject>German</subject>
+            <subject>English</subject>
         </subjects>
     </student>
     <student>
@@ -31,9 +31,9 @@
             <houseNumber>2</houseNumber>
         </address>
         <subjects>
-            <subject>Math</subjet>
-            <subject>Geography</subjet>
-            <subject>English</subjet>
+            <subject>Math</subject>
+            <subject>Geography</subject>
+            <subject>English</subject>
         </subjects>
     </student>
     <student>
@@ -49,9 +49,9 @@
             <houseNumber>3</houseNumber>
         </address>
         <subjects>
-            <subject>French</subjet>
-            <subject>German</subjet>
-            <subject>English</subjet>
+            <subject>French</subject>
+            <subject>German</subject>
+            <subject>English</subject>
         </subjects>
     </student>
     <student>
@@ -67,9 +67,9 @@
             <houseNumber>4</houseNumber>
         </address>
         <subjects>
-            <subject>French</subjet>
-            <subject>German</subjet>
-            <subject>English</subjet>
+            <subject>French</subject>
+            <subject>German</subject>
+            <subject>English</subject>
         </subjects>
     </student>
     <student>
@@ -85,9 +85,9 @@
             <houseNumber>5</houseNumber>
         </address>
         <subjects>
-            <subject>French</subjet>
-            <subject>German</subjet>
-            <subject>English</subjet>
+            <subject>French</subject>
+            <subject>German</subject>
+            <subject>English</subject>
         </subjects>
     </student>
     <student>
@@ -103,9 +103,9 @@
             <houseNumber>6</houseNumber>
         </address>
         <subjects>
-            <subject>French</subjet>
-            <subject>German</subjet>
-            <subject>English</subjet>
+            <subject>French</subject>
+            <subject>German</subject>
+            <subject>English</subject>
         </subjects>
     </student>
     <student>
@@ -121,9 +121,9 @@
             <houseNumber>7</houseNumber>
         </address>
         <subjects>
-            <subject>French</subjet>
-            <subject>German</subjet>
-            <subject>English</subjet>
+            <subject>French</subject>
+            <subject>German</subject>
+            <subject>English</subject>
         </subjects>
     </student>
     <student>
@@ -139,9 +139,9 @@
             <houseNumber>8</houseNumber>
         </address>
         <subjects>
-            <subject>French</subjet>
-            <subject>German</subjet>
-            <subject>English</subjet>
+            <subject>French</subject>
+            <subject>German</subject>
+            <subject>English</subject>
         </subjects>
     </student>
 </directory> 
